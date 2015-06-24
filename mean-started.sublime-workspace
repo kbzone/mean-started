@@ -1,0 +1,514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"curre",
+				"currentItem"
+			],
+			[
+				"bor",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 226.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/wamp/www/mean-projects/mean-started/mean-started.sublime-project",
+		"/D/wamp/www/mean-projects/mean-started/mean-started.sublime-workspace",
+		"/D/wamp/www/mean-projects/started/package.json",
+		"/D/wamp/www/mean-projects/started/server.js",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/index.html",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/portfolio.html",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/css/estilos.css",
+		"/D/wamp/alias/angular-auth.conf",
+		"/D/wamp/alias/mamut.conf",
+		"/D/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/js/grid3d.js",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/assets/site.v1/v1/index.php",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/v1/js/grid3d.js",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/v1/index.php",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/css/demo.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/index.orig.html",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/css/component.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/assets/3DGridEffect/css/demo.css",
+		"/C/Users/Pelo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/css/grid3d.css",
+		"/D/wamp/www/mamut_/v1/assets/3DGridEffect/3DGridEffect/css/component.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/index.php",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site2/js/grid3d.js",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/index.galeria.php",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site2/index.php",
+		"/D/wamp/www/mamut_/v1/assets/Hover-master/Hover-master/css/hover.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site2/css/grid3d.css",
+		"/D/wamp/www/mamut_/v1/assets/Hover-master/Hover-master/css/hover-min.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/css/hover-min.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site2/css/hover-min.css",
+		"/D/wamp/www/mamut_/v1/assets/3DGridEffect/3DGridEffect/index.html",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/js/modernizr.custom.js",
+		"/D/wamp/www/mamut_/v1/assets/3DGridEffect/3DGridEffect/css/demo.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/css/normalize.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/index.v3.php",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/index.v1.php",
+		"/D/wamp/www/mamut_/v1/assets/3DGridEffect/3DGridEffect/js/grid3d.js",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/js/helper.js",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/js/classie.js",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/test.html",
+		"/D/Guillermo/Pogramación/HTML5 Template/Html5bones/html5bones-1.3.1/html5bones-1.3.1/index.html",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/css/styles.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/css/very-small.css",
+		"/D/Guillermo/Dropbox/Trabajo/mamut/site/js/functions.js",
+		"/D/wamp/www/mamut/site/css/normalize.css",
+		"/D/wamp/www/deportizate.com.ar/assets/jquery.fancybox-1.3.4/jquery.fancybox-1.3.4/index.html",
+		"/D/wamp/www/mamut/site/test",
+		"/D/wamp/www/mamut/site/large.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-xs-height ",
+			" col-full-height",
+			"6",
+			" col-full-height",
+			" col-xs-height col-full-height",
+			"6",
+			"angular",
+			"33px",
+			"<span class=\"glyphicon glyphicon-hand-right hidden-md hidden-sm hidden-xs\"></span>",
+			"</figcaption>			",
+			"servicio",
+			"Droid",
+			"flecha",
+			"twitter",
+			".grid figure",
+			"grid",
+			"border-le",
+			"open",
+			"más imformación",
+			"span",
+			"descripcion",
+			"estilos",
+			"style",
+			" same-height",
+			" {",
+			"#",
+			"row-same",
+			"row",
+			"vertical",
+			"supertitulo",
+			"Zoe never had the patience of her sisters. She deliberately punched the bear in his face",
+			"feathericons",
+			" {",
+			"grid",
+			"http",
+			"jpg",
+			" {",
+			"perspe",
+			"gridWrap",
+			"grid-wrap",
+			"container",
+			"grid3d.js",
+			"container",
+			"hidden",
+			"inite",
+			"<img",
+			"img",
+			"modernizr.custom.js",
+			"dropb",
+			"grid3ddd",
+			"cusstom",
+			"console",
+			".portfolio-listado",
+			"_createPlaceholder",
+			"_resizePlaceholder",
+			"getv",
+			"getViewportW",
+			"_resizePlaceholder",
+			"placeholder",
+			".grid figure, .grid .placeholder",
+			"grid3d",
+			"grid3d.css",
+			"_resizePlaceholder",
+			"this.placeholder",
+			"isologo",
+			"loadContent",
+			"console.log",
+			"_showContent",
+			"content",
+			" {",
+			"grid3d",
+			"contacto",
+			", Verdana",
+			"google-maps",
+			"facebook-icon.png",
+			"twitter-icon.png",
+			"facebook-icon.png",
+			"form",
+			"xs",
+			"sm",
+			"<a ",
+			"span",
+			"footer-",
+			"slider",
+			"color: red;",
+			" {",
+			".contacto",
+			"formulario-contacto",
+			"http://lorempixel.com/1070/392",
+			"	body\n",
+			"/*",
+			"screen and ",
+			"servicio descripcion col-sm-3 col-sm-6 col-xs-12 border-left",
+			"Open Sans",
+			"directory",
+			"127",
+			"  }",
+			"}\n",
+			" {",
+			"servicios",
+			"telefono-email",
+			"span",
+			"all 0.1s linear;",
+			"0.7s",
+			"</li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"scale(1.01);",
+			"0.1s",
+			"1s",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mean-started.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"serv",
+				"server.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"estilos",
+				"css\\estilos.css"
+			],
+			[
+				"gridjs",
+				"js\\grid3d.js"
+			],
+			[
+				"estil",
+				"css\\estilos.css"
+			],
+			[
+				"css/demo.css",
+				"css\\demo.css"
+			],
+			[
+				"grid3d.js",
+				"js\\grid3d.js"
+			],
+			[
+				"compo",
+				"css\\component.css"
+			],
+			[
+				"css",
+				"css\\component.css"
+			],
+			[
+				"grid3d.css",
+				"css\\grid3d.css"
+			],
+			[
+				"est",
+				"css\\estilos.css"
+			],
+			[
+				"index.galeria.php",
+				"index.galeria.php"
+			],
+			[
+				"hov",
+				"css\\hover-min.css"
+			],
+			[
+				"hover-min.css",
+				"css\\hover-min.css"
+			],
+			[
+				"hovermin",
+				"css\\hover-min.css"
+			],
+			[
+				"estilos.css",
+				"css\\estilos.css"
+			],
+			[
+				"demo.css",
+				"css\\demo.css"
+			],
+			[
+				"component.css",
+				"css\\component.css"
+			],
+			[
+				"modernizr.custom.js",
+				"js\\modernizr.custom.js"
+			],
+			[
+				"normalize.css",
+				"css\\normalize.css"
+			],
+			[
+				"helper.js",
+				"js\\helper.js"
+			],
+			[
+				"classie.js",
+				"js\\classie.js"
+			],
+			[
+				"democs",
+				"css\\demo.css"
+			],
+			[
+				"grid3d",
+				"css\\grid3d.css"
+			],
+			[
+				"normalize",
+				"css/normalize.css"
+			],
+			[
+				"test",
+				"test.html"
+			],
+			[
+				"css/styles.css",
+				"css/styles.css"
+			],
+			[
+				"index",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "mena",
+		"selected_items":
+		[
+			[
+				"mena",
+				"D:\\wamp\\www\\mean-projects\\started\\mean-started.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

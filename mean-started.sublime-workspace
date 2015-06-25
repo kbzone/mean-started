@@ -27,8 +27,24 @@
 			"file": "server.js",
 			"settings":
 			{
-				"buffer_size": 71,
+				"buffer_size": 1221,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -73,9 +89,13 @@
 	},
 	"expanded_folders":
 	[
+		"/D/wamp/www/mean-projects/mean-started"
 	],
 	"file_history":
 	[
+		"/D/wamp/www/mean-projects/mean-started/open-terminal.bat",
+		"/D/Guillermo/Programas/cmder/vendor/profile.ps1",
+		"/D/wamp/www/mean-projects/mean-started/server.js",
 		"/D/wamp/www/mean-projects/mean-started/mean-started.sublime-project",
 		"/D/wamp/www/mean-projects/mean-started/mean-started.sublime-workspace",
 		"/D/wamp/www/mean-projects/started/package.json",
@@ -127,7 +147,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -141,6 +161,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"path",
 			"col-xs-height ",
 			" col-full-height",
 			"6",
@@ -276,7 +297,64 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 71,
+						"buffer_size": 1221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
 						"regions":
 						{
 						},
@@ -289,13 +367,15 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -349,6 +429,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pack",
+				"package.json"
+			],
 			[
 				"serv",
 				"server.js"
